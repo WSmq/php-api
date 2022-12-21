@@ -1,4 +1,4 @@
-# CloudWS PHP lib
+# WSmq PHP lib
 
 #### Installation
 ```
